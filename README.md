@@ -2,6 +2,8 @@
 
 downloaded via __[coursera-dl](https://github.com/coursera-dl/coursera-dl)__
 
+> $ pip install coursera-dl
+
 > $ coursera-dl -u __youremail__ -p __yourcourserapassword__ -f "pdf" --path=__here/is/path/to_folder__ machine-learning
   
 to extract all pdfs from all folders recursively
