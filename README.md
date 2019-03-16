@@ -2,7 +2,7 @@
 
 downloaded via __[coursera-dl](https://github.com/coursera-dl/coursera-dl)__
 
-> $ coursera-dl -u <youremail@whatever.com> -p <yourcourserapassword> -f "pdf" --path=here/is/path/to_folder --clear-cache machine-learning
+> $ coursera-dl -u __youremail__ -p __yourcourserapassword__ -f "pdf" --path=here/is/path/to_folder --clear-cache machine-learning
   
 to extract all pdfs from all folders recursively
 > $ find . -iname "*.pdf" -exec mv {} ~/Desktop/machine-learning/ \;
