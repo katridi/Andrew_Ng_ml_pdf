@@ -1,6 +1,6 @@
 # [Andrew Ng Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)
 
-downloaded via coursera-dl 
+downloaded via __[coursera-dl]__(https://github.com/coursera-dl/coursera-dl)
 
 > $ coursera-dl -u <youremail@whatever.com> -p <yourcourserapassword> -f "pdf" --path=here/is/path/to_folder --clear-cache machine-learning
   
